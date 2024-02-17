@@ -4,7 +4,6 @@
 
 - List of my security reviews / audits reports of projects made with Solidity:
 - Solidity で作られているプロジェクトのセキュリティレビューと監査一覧：
--
 
 ## 2023-02-16_PasswordStore
 
