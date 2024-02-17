@@ -2,6 +2,12 @@
 
 # Solidity Security Reviews Reports
 
+<br/>
+<p align="center">
+<img src="./Audit_reports_images.webp" width="600" alt="Security review">
+</p>
+<br/>
+
 - List of my security reviews / audits reports of projects made with Solidity:
 - Solidity で作られているプロジェクトのセキュリティレビューと監査一覧：
 
