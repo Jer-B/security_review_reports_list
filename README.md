@@ -14,6 +14,6 @@
 ## 2023-02-16_PasswordStore
 
 - EN_PDF [PasswordStore_EN](./2023-02-17_PasswordStore_Audit/2023-02-17_PasswordStore_audit_report_en.pdf)
-- JP_PDF [PasswordStore_JA](./2023-02-17_PasswordStore_Audit/2023-02-17_PasswordStore_audit_report_ja.pdf)
+- JP_PDF [PasswordStore_JP](./2023-02-17_PasswordStore_Audit/2023-02-17_PasswordStore_audit_report_ja.pdf)
 - [PasswordStore-Repo Before Review](https://github.com/Cyfrin/3-passwordstore-audit/tree/onboarded)
 - [PasswordStore-Repo After Review](https://github.com/Jer-B/passwordStore_after_audit)
