@@ -21,6 +21,6 @@
 ## 2024-02-20_PuppyRaffle
 
 - EN_PDF [PuppyRaffle_EN](./2024-02-20_PuppyRaffle_Audit/2024-02-20_PuppyRaffle_audit_report_en.pdf)
-- JP_PDF [PuppyRaffle_JP](./2024-02-20_PuppyRaffle_Audit/ 2024-02-20_PuppyRaffle_audit_report_ja.pdf)
+- JP_PDF [PuppyRaffle_JP](./2024-02-20_PuppyRaffle_Audit/2024-02-20_PuppyRaffle_audit_report_ja.pdf)
 - [PuppyRaffle-Repo Before Review](https://github.com/Cyfrin/4-puppy-raffle-audit)
 - [PuppyRaffle-Repo After Review](https://github.com/Jer-B/PuppyRaffle_after_audit)
