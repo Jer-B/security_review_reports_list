@@ -17,3 +17,10 @@
 - JP_PDF [PasswordStore_JP](./2023-02-17_PasswordStore_Audit/2023-02-17_PasswordStore_audit_report_ja.pdf)
 - [PasswordStore-Repo Before Review](https://github.com/Cyfrin/3-passwordstore-audit/tree/onboarded)
 - [PasswordStore-Repo After Review](https://github.com/Jer-B/passwordStore_after_audit)
+
+## 2023-02-20_PuppyRaffle
+
+- EN_PDF [PuppyRaffle_EN](./2023-02-17_PasswordStore_Audit/2023-02-20_PuppyRaffle_audit_report_en.pdf)
+- JP_PDF [PuppyRaffle_JP](./2023-02-17_PasswordStore_Audit/2023-02-20_PuppyRaffle_audit_report_ja.pdf)
+- [PuppyRaffle-Repo Before Review](https://github.com/Cyfrin/4-puppy-raffle-audit)
+- [PuppyRaffle-Repo After Review](https://github.com/Jer-B/PuppyRaffle_after_audit)
